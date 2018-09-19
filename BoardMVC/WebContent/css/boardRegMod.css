@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.subContainer {
+	padding: 20px;
+	display: flex;
+	height: 100%;
+	align-items: center;	
+	flex-direction: column;
+}
+
+table {
+	width: 100%;
+}
